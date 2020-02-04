@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Activity 4</title>
+</head>
+<h1 style="color:Blue" align="center">Engineering colleges in bangalore</h1>
+<OL>
+<LI>Presidency university</LI>
+<LI>Reva university</LI>
+<LI>Ramaiah university</LI>
+<LI>Bangalore university</LI>
+</OL>
+<h2 align="left">Engineering branch available</h2>
+<OL>
+<LI>CSE</LI>
+<LI>CIV</LI>
+<LI>MEC</LI>
+<LI>PET</LI>
+<LI>EEE</LI>
+</OL>
+<h3  style=" color:Green" align="left">Acronyms of branch</h3>
+<OL>
+<LI>CSE<div>Computer science Engineering</div></LI>
+<LI>CIV:Civil Engineering</LI>
+<LI>MEC:Mechanical Engineering</LI>
+<LI>PET:Petroleum Engineering</LI>
+<LI>EEE:Electric and Electronic Engineering</LI>
+</OL>
+</body>
+</html>
